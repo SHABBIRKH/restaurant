@@ -1,0 +1,44 @@
+
+Digital Menu
+
+Views:  
+
+1. Website (one Page)
+
+Details information (will be provided)
+youtube Videos link to play
+Company Details
+
+2. Customers (Menu List after QR Scan)
+
+Menu List of Restuarant, Location map, 
+Select: Dine-In,  Pick-Up, Delivery
+Menu, Items, Items Add to cart
+Customer Detail (According to Restaurant Additional Field) 
+order => Complete Msg prepaired with options (Text or WhatsApp)
+Text send to Restuataurant Number (TEXT or WhatsApp)
+
+3. Restuarant Owner (Sign-up + Sign-in)
+
+Sign UP: Create Restuarant
+Restuarant Name, Description, Email, City, Address, Zip, Phone, Text message Number, WhatsApp Number, Primary Color, Logo-2, Location link. 
+SIgn-In: Dashboared:
+Restuarant QR Code, Print option with 2 Logos
+Active/Oflline
+Open Hourse
+
+Create Menu: 
+Menu Name, Note (visible only to you), Section Name, Description, Add New Dish
+Add New Dish:
+Dish Name, Description, Dish Published (Y/N), Upload Image, Price, Taxe (%), Currency, add Modifier
+
+Manage Ordering => Dine-In(Disbale/Active),  Pick-Up(Disbale/Active), Delivery (Disbale/Active)
+Recieve Via WhatsApp (yes/NO) Text Message (Y/N)
+Additional Field:  " + ", Name, Required (y/N)
+Extra Fee: Name, Vlue
+
+
+4. Admin (List of Restuarants)
+List of Restuarant (Y/N), detail, Delete, CountDown 365 days
+2nd check mark (Y/N): if Yes : A Note on Customer Panel, If No: Countdown for 365 days
+365 days 2nd Checkmark "Y" and top of List 
